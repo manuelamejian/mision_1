@@ -11,3 +11,8 @@
 
 1. Cuaderno
 2. Ejercicios
+
+```python
+print('hola')
+```
+
